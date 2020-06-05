@@ -1,0 +1,123 @@
+{
+	"title":"This JSON file will be used in JSON parsing in my android project",
+	"teamList":[
+		{
+			"teamName":"FC Barcelona",
+			"coachName":"Ernesto Valverde",
+			"country":"Spain",
+			"matches":[
+				{	"id":"fcb001",
+					"date":"10/06/2020",
+					"day":"Wednesday",
+					"time":"11:45 pm",
+					"opponent":"Liverpool FC",
+					"venue":"Camp Nou",
+					"tournament":"UEFA Champions League"
+				},
+`				{	"id":"fcb002",
+					"date":"13/06/2020",
+					"day":"Saturday",
+					"time":"6:45 pm",
+					"opponent":"Real Madrid FC",
+					"venue":"Camp Nou",
+					"tournament":"La Liga"
+				}
+			]
+		},
+		{
+			"teamName":"Liverpool FC",
+			"coachName":"Jurgen Klopp",
+			"country":"England",
+			"matches":[
+				{	"id":"liv001",
+					"date":"10/06/2020",
+					"day":"Wednesday",
+					"time":"11:45 pm",
+					"opponent":"FC Barcelona",
+					"venue":"Camp Nou",
+					"tournament":"UEFA Champions League"
+				},
+				{	"id":"liv002",
+					"date":"14/06/2020",
+					"day":"Sunday",
+					"time":"10:45 pm",
+					"opponent":"Manchester City FC",
+					"venue":"Anfield",
+					"tournament":"English Premier League"
+				}
+			]
+		},
+		{
+			"teamName":"Real Madrid FC",
+			"coachName":"Zinedine Zidane",
+			"country":"Spain",
+			"matches":[
+				{	"id":"rma001",
+					"date":"14/06/2020",
+					"day":"Sunday",
+					"time":"8:45 pm",
+					"opponent":"Atletico Madrid FC",
+					"venue":"Wanda Metropolitano Stadium",
+					"tournament":"LaLiga"
+				},
+				{	"id":"rma002",
+					"date":"17/06/2020",
+					"day":"Wednesday",
+					"time":"12:45 am",
+					"opponent":"Borussia Dortmund FC",
+					"venue":"Signal Iduna Park",
+					"tournament":"UEFA Champions League"
+				}	
+			]
+		},
+		{
+			"teamName":"Manchester City FC",
+			"coachName":"Pep Guardiola",
+			"country":"England",
+			"matches":[
+				{	"id":"mcfc001",
+					"date":"14/06/2020",
+					"day":"Sunday",
+					"time":"10:45 pm",
+					"opponent":"Liverpool FC",
+					"venue":"Anfield",
+					"tournament":"English Premier League"
+				},
+				{	"id":"mcfc002",
+					"date":"20/06/2020",
+					"day":"Saturday",
+					"time":"7:45 pm",
+					"opponent":"Arsenal FC",
+					"venue":"Etihad Stadium",
+					"tournament":"English Premier League"
+				},
+			]
+		},
+		{
+			"teamName":"Borussia Dortmund FC",
+			"coachName":"Lucien Favre",
+			"country":"Germany",
+			"matches":[
+				{	"id":"dfc001",
+					"date":"13/06/2020",
+					"day":"Saturday",
+					"time":"10:45 pm",
+					"opponent":"Bayern Munich FC",
+					"venue":"Allianz Arena",
+					"tournament":"Bundesliga"
+				},
+				{	"id":"dfc002",
+					"date":"17/06/2020",
+					"day":"Wednesday",
+					"time":"12:45 am",
+					"opponent":"Real Madrid FC",
+					"venue":"Signal Iduna Park",
+					"tournament":"UEFA Champions League"
+				},
+			]
+		},
+
+	]
+	
+
+}
