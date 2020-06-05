@@ -14,7 +14,7 @@
 					"venue":"Camp Nou",
 					"tournament":"UEFA Champions League"
 				},
-`				{	"id":"fcb002",
+				{	"id":"fcb002",
 					"date":"13/06/2020",
 					"day":"Saturday",
 					"time":"6:45 pm",
@@ -90,7 +90,7 @@
 					"opponent":"Arsenal FC",
 					"venue":"Etihad Stadium",
 					"tournament":"English Premier League"
-				},
+				}
 			]
 		},
 		{
@@ -113,7 +113,7 @@
 					"opponent":"Real Madrid FC",
 					"venue":"Signal Iduna Park",
 					"tournament":"UEFA Champions League"
-				},
+				}
 			]
 		},
 
